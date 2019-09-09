@@ -22,5 +22,7 @@ int main()
 {
 	LetDebug* ld = new LetDebug;
 	ld->printNum();
+
+	std::cout << "201850247" << std::endl;
 	return 0;
 }
